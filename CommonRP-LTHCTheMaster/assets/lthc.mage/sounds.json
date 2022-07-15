@@ -1,0 +1,164 @@
+{
+"essences": {
+"subtitle":"Essences Generation",
+"sounds": [
+"lthc.mage:machines/essences"
+]
+},
+"essences2": {
+"subtitle":"Essences Generation",
+"sounds": [
+"lthc.mage:machines/essences2"
+]
+},
+"boss_sound": {
+"subtitle":"Magical Elementalization's Boss",
+"sounds": [
+"lthc.mage:bosses/boss_sound"
+]
+},
+"mangrove_axe": {
+"subtitle":"Mangrove Axe Power",
+"sounds": [
+"lthc.mage:objects/mangrove_axe"
+]
+},
+"tp_wand": {
+"subtitle":"Teleporting with wand",
+"sounds": [
+"lthc.mage:wand/tp_wand"
+]
+},
+"color_wand": {
+"subtitle":"Color Wand used",
+"sounds": [
+"lthc.mage:wand/color_wand"
+]
+},
+"forest_clearer": {
+"subtitle":"Clearing the forest",
+"sounds": [
+"lthc.mage:spells/forest_clearer"
+]
+},
+"craft": {
+"subtitle": "Magic Craft",
+"sounds": [
+"lthc.mage:machines/craft"
+]
+},
+"berserker_staff": {
+"subtitle": "Berserker Staff",
+"sounds": [
+"lthc.mage:staff/berserker_staff"
+]
+},
+"wind_force": {
+"subtitle": "Wind Force",
+"sounds": [
+"lthc.mage:spells/wind_force"
+]
+},
+"wall_staff": {
+"subtitle": "Someone is becoming a wall",
+"sounds": [
+"lthc.mage:staff/wall_staff"
+]
+},
+"oxyheal_staff": {
+"subtitle": "Someone is healing himself with oxygen",
+"sounds": [
+"lthc.mage:staff/oxyheal_staff"
+]
+},
+"life_bring": {
+"subtitle": "Bringing the life",
+"sounds": [
+"lthc.mage:spells/life_bring"
+]
+},
+"sacrifices_to_trees": {
+"subtitle": "Sacrifices for the God of Trees",
+"sounds": [
+"lthc.mage:spells/sacrifices_to_trees"
+]
+},
+"black_hole": {
+"subtitle": "Black Hole using",
+"sounds": [
+"lthc.mage:spells/black_hole"
+]
+},
+"burning_problem": {
+"subtitle": "There is a Burning Issue",
+"sounds": [
+"lthc.mage:spells/burning_problem"
+]
+},
+"call_of_the_dark_magic": {
+"subtitle": "Strange dark magic",
+"sounds": [
+"lthc.mage:spells/call_of_the_dark_magic"
+]
+},
+"elementalized_boss": {
+"subtitle": "Elementalized Boss",
+"sounds": [
+"lthc.mage:bosses/elementalized_boss"
+]
+},
+"logical_wand": {
+"subtitle": "Logical Power",
+"sounds": [
+"lthc.mage:wand/logical_wand"
+]
+},
+"paradoxal_wand": {
+"subtitle": "Paradoxal Power",
+"sounds": [
+"lthc.mage:wand/paradoxal_wand"
+]
+},
+"mental_reader": {
+"subtitle": "Mental Reading",
+"sounds": [
+"lthc.mage:objects/mental_reader"
+]
+},
+"block_place": {
+"subtitle": "Magical Block Placement",
+"sounds": [
+"lthc.mage:machines/block_place"
+]
+},
+"mental0": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/sound0_effect_mental"
+]
+},
+"mental1": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/sound1_effect_mental"
+]
+},
+"mental2": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/i_will_chase_you"
+]
+},
+"mental3": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/play_with_me"
+]
+},
+"mental4": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/joy"
+]
+}
+}
