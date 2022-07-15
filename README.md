@@ -7,3 +7,7 @@ This repositories contains all assets used by my current working and maintained 
 ## List of DATAPACKS
 
 <a href="./LIST.md">List here</a>
+
+## Credits
+
+<a href="https://github.com/Smithed-MC/Libraries">Smithed Crafter (used by some of my datapacks)</a>
